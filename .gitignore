@@ -1,0 +1,9 @@
+bin/
+obj/
+test/A/
+test/B/
+test/pfxA/
+test/pfxB/
+test/*.log
+test/*.stdout
+test/results.txt
